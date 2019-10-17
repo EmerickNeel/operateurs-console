@@ -54,3 +54,4 @@ getValueMoreThree()
 getEvenValue()
 getBiggestValue()
 getSmallestValue()
+
